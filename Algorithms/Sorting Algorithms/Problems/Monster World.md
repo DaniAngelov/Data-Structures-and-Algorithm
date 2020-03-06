@@ -22,17 +22,25 @@ Sample Input 0:
 Sample Output 0:
 
 2
+
+
 Sample Input 1:
 
 4 1
+
 5 2 3 5
+
 Sample Output 1:
 
 2
+
+
 Sample Input 2:
 
 4 2
+
 5 3 1 6
+
 Sample Output 2:
 
 2
