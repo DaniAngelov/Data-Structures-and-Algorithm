@@ -18,7 +18,10 @@ Output Format
 Sample Input 0:
 
 3 2
+
 1 3 5
+
+
 Sample Output 0:
 
 2
