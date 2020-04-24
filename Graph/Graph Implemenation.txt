@@ -1,3 +1,5 @@
+// github.com/DaniAngelov
+
 #include <iostream>
 #include <vector>
 #include <string>
