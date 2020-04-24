@@ -1,3 +1,5 @@
+// github.com/DaniAngelov
+
 #include <queue>
 #include <iostream>
 #include <vector>
